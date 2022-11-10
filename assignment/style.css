@@ -1,6 +1,32 @@
 /* Give your page a fun background color */
+body{
+    background-color: rgb(106, 16, 43);
+}
 
 /* Make the header and footer a different color from the background */
+header, footer{
+    background-color: rgb(222, 193, 193);
+    
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    color: darkcyan;
+    font-style: italic;
+}
+
+img{
+    border-style: double;
+    border-color: whitesmoke;
+    border-width: thick;
+}
+
+ul{
+    font-family: Arial, sans-serif;
+}
 
 /* Align the h1 containing your name in the center of the header*/
 
@@ -8,4 +34,4 @@
 
 /* Put a border around your image */
 
-/* Change the font-family of your list */
+/* Change the font-family of your list */ 
