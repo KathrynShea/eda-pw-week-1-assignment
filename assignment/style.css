@@ -8,29 +8,25 @@ header, footer{
     background-color: rgb(222, 193, 193);
 }
 
+/* Align the h1 containing your name in the center of the header*/
 h1{
     text-align: center;
 }
 
+/* Make your p tag a different color and italic */
 p{
     color: darkcyan;
     font-style: italic;
 }
 
+/* Put a border around your image */
 img{
     border-style: double;
     border-color: whitesmoke;
     border-width: thick;
 }
 
+/* Change the font-family of your list */ 
 ul{
     font-family: Arial, sans-serif;
 }
-
-/* Align the h1 containing your name in the center of the header*/
-
-/* Make your p tag a different color and italic */
-
-/* Put a border around your image */
-
-/* Change the font-family of your list */ 
