@@ -6,7 +6,6 @@ body{
 /* Make the header and footer a different color from the background */
 header, footer{
     background-color: rgb(222, 193, 193);
-    
 }
 
 h1{
